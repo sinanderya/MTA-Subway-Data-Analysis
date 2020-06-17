@@ -22,7 +22,12 @@ Variables included in initially processed data:
 * entries = The comulative entry register value for a device
 * exits = The cumulative exit register value for a device
 
-I got Newyork Restaurant information from the file named **DOHMH_New_York_City_Restaurant_Inspection_Results** at
+I got Newyork Restaurant information from the website 
 https://data.ny.gov/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j.
+File name is **DOHMH_New_York_City_Restaurant_Inspection_Results** 
+This dataset and the information on the Health Department’s Restaurant Grading website come from the same data source. 
+The Health Department’s Restaurant Grading website is here:
+http://www1.nyc.gov/site/doh/services/restaurant-grades.page
+See the data dictionary file in the Attachments section of the OpenData website for a summary of data fields and allowable values.
 
-[view data](https://data.ny.gov/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/data)
+[Newyork Restaurant view data](https://data.ny.gov/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/data)
